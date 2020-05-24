@@ -1,0 +1,2 @@
+# HaskellStudies
+Learning Haskell 
